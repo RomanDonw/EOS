@@ -1,0 +1,15 @@
+
+=============================
+Help of EOS
+=============================
+Syntax of command:
+    name [arguments]
+=============================
+help [command=None] - help of EOS or command.
+exit - exit from OS.
+restart - restart OS.
+clear - clear screen.
+prompt [prompt=DEFAULT] - set of prompt.
+cmd [command=Command] - run command in Windows Command Prompt.
+list - list of programs.
+=============================

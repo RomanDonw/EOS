@@ -1,0 +1,7 @@
+==================
+Help of "dir"
+==================
+dir [path]
+==================
+Print files and dirs from path [path].
+==================

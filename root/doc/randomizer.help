@@ -1,0 +1,8 @@
+==================
+Help of "randomizer"
+==================
+randomizer [min_number] [max_number]
+==================
+Print random number between 
+ [min_number] and [max_number]. 
+==================

@@ -1,0 +1,5 @@
+Welcome to EOS v1.0.0,
+EvolationStudios, 2019-2023.
+Notes:
+  Enter "help" to call help.
+  Enter "exit" or call EOF to exit from EOS.
